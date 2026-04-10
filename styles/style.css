@@ -318,10 +318,10 @@ button[type="submit"]:hover {
 
 .six .hat {
   position: absolute;
-  left: 41.5%;
-  top: -35%;
+  left: 12%;
+  top: -32%;
   width: 60px;
-  rotate: 14deg;
+  rotate: -20deg;
 }
 
 .ballons img {
