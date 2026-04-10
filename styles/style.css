@@ -151,6 +151,25 @@ button[type="submit"]:hover {
   border: 2px solid #000;
 }
 
+.noted-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(236, 214, 235, 0.5);
+  text-align: center;
+  padding: 8px 0;
+  z-index: 20;
+}
+
+.noted-footer p {
+  margin: 0;
+  font-size: 14px;
+}
+
 .login_description {
   font-size: 14px;
   color: #ffffff;
@@ -170,6 +189,7 @@ button[type="submit"]:hover {
 
 .left-bow {
   left: 20px;
+  font-size: 40px;
 }
 
 .right-bow {
